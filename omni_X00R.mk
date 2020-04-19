@@ -29,8 +29,8 @@ PRODUCT_PACKAGES += \
     libcryptfs_hw
 
 # Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := X00P
-PRODUCT_NAME := omni_X00P
+PRODUCT_DEVICE := X00R
+PRODUCT_NAME := omni_X00R
 PRODUCT_BRAND := asus
-PRODUCT_MODEL := ASUS_X00PD
+PRODUCT_MODEL := ASUS_X00RD
 PRODUCT_MANUFACTURER := asus
